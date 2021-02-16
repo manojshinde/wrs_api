@@ -14,9 +14,7 @@ import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.RequestBuilder;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
-import com.codingassignment.wrs.modelresponse.Coord;
 import com.codingassignment.wrs.modelresponse.Data;
-import com.codingassignment.wrs.modelresponse.LatLongResponse;
 import com.codingassignment.wrs.modelresponse.WeatherResponse;
 import com.codingassignment.wrs.service.WeatherService;
 
